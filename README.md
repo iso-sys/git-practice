@@ -10,3 +10,4 @@ github上で修正2回
 rebase-practiceブランチで更新(rebase用)
 rebase-practiceブランチで修正(rebase コンフリクト用)
 rebase pull用
+stash演習
